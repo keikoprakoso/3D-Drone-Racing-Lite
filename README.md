@@ -2,7 +2,7 @@
 
 A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet Physics. Features advanced camera controls, realistic physics simulation, and professional-grade graphics.
 
-## 🎮 Features
+## Features
 
 ### Core Features
 - **Realistic Physics**: Bullet Physics integration with accurate drone dynamics
@@ -18,7 +18,7 @@ A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet 
 - **Smooth Rendering**: 60+ FPS with VSync and optimized geometry
 - **Data Logging**: Flight telemetry saved to CSV for analysis
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - **macOS** (currently optimized for macOS with Metal)
@@ -52,7 +52,7 @@ A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet 
    ./drone-sim
    ```
 
-## 🎯 Controls
+## Controls
 
 ### Basic Movement
 - **WASD**: Forward/Left/Backward/Right movement
@@ -69,7 +69,7 @@ A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet 
 - **F1**: Toggle physics debug visualization
 - **F2**: Toggle performance info display
 
-## 🏗️ Architecture
+## 🏗Architecture
 
 ### Core Components
 - **Renderer**: OpenGL rendering pipeline with shader management
@@ -102,7 +102,7 @@ A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet 
 └── build/                    # Build artifacts (generated)
 ```
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Dependencies
 - **GLFW**: Window and input management
@@ -121,7 +121,7 @@ A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet 
 3. **Lighting**: Phong illumination with attenuation
 4. **Post-processing**: Atmospheric effects and performance monitoring
 
-## 🎨 Visual Features
+## Visual Features
 
 ### Lighting System
 - Primary directional light with realistic shadows
@@ -141,7 +141,7 @@ A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet 
 - Debug wireframe visualization
 - Smooth camera interpolation
 
-## 📊 Data & Analytics
+## Data & Analytics
 
 ### Flight Logging
 - **CSV Export**: Position, velocity, and thrust data
@@ -153,49 +153,6 @@ A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet 
 - **Wireframe Mode**: Geometry debugging
 - **Performance Overlay**: Real-time system metrics
 
-## 🚀 Future Enhancements
-
-### Planned Features
-- **AI Opponents**: Intelligent drone competitors
-- **Multiplayer**: Online racing with other players
-- **Advanced Physics**: Aerodynamics and weather systems
-- **VR Support**: Oculus/Meta Quest integration
-- **Procedural Tracks**: Infinite race course generation
-
-### Technical Roadmap
-- **Phase 1**: AI opponents and advanced physics
-- **Phase 2**: Multiplayer networking
-- **Phase 3**: VR/AR integration
-- **Phase 4**: Machine learning flight assistance
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Bullet Physics**: For realistic physics simulation
-- **GLFW**: For cross-platform window management
-- **OpenGL**: For high-performance graphics rendering
-- **GLM**: For mathematical operations
-
-## 📞 Support
-
-For questions, issues, or contributions:
-- **GitHub Issues**: Report bugs and request features
-- **Pull Requests**: Submit improvements and fixes
-- **Discussions**: Share ideas and get help
-
----
-
-**Happy Flying!** 🛸
-
-*Built with ❤️ using modern C++ and OpenGL*
