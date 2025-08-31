@@ -69,7 +69,7 @@ A high-performance 3D drone racing simulator built with C++, OpenGL, and Bullet 
 - **F1**: Toggle physics debug visualization
 - **F2**: Toggle performance info display
 
-## 🏗Architecture
+## Architecture
 
 ### Core Components
 - **Renderer**: OpenGL rendering pipeline with shader management
